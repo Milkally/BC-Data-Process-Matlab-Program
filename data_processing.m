@@ -16,6 +16,8 @@
 %         3)整合好的BC和Meteo日平均数据，以及合并的时间表，在BC_5_Meteo中
 %         4)Angstrom指数计算结果，在BC_6_Angstrom中。
 
+
+
 clear all;close all;clc;
 dbstop if error;
 %addpath(D:\BC_Figures\prog\mFunctions）第一次处理数据的时候需要运行一下这一行，就是把自定义函数添加进默认的搜索路径
